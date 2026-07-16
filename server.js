@@ -26,8 +26,8 @@ const MODEL_MAPPING = {
   'deepseek-flash': 'deepseek-ai/deepseek-v4-flash',
   'nemotron': 'nvidia/nemotron-3-super-120b-a12b',
   'openai': 'openai/gpt-oss-120b',
-  'meta': 'meta/llama-3.3-70b-instruct',
-  'claude-3-sonnet': 'openai/gpt-oss-20b',
+  'glm': 'z-ai/glm-5.2',
+  'kimi': 'moonshotai/kimi-k2.6',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
