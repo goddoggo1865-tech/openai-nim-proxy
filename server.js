@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'deepseek-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepseek-flash': 'deepseek-ai/deepseek-v4-flash-0731',
   'nemotron': 'nvidia/nemotron-3-super-120b-a12b',
-  'glm': 'z-ai/glm-5.2',
+  'glm': 'z-ai/glm-5.3',
   'kimi': 'moonshotai/kimi-k3',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
